@@ -13,7 +13,7 @@
     },
     "extra": {
       "eas": {
-        "projectId": "YOUR-PROJECT-ID"
+        "projectId": "defalud"
       }
     }
   }
