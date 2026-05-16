@@ -4,36 +4,18 @@
     "slug": "eva-superapp",
     "version": "2.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
     "userInterfaceStyle": "dark",
     "backgroundColor": "#07071a",
-    "splash": {
-      "image": "./assets/splash.png",
-      "resizeMode": "contain",
-      "backgroundColor": "#07071a"
-    },
     "android": {
-      "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#07071a"
-      },
       "package": "com.eva.superapp",
       "versionCode": 1,
       "permissions": [
         "CAMERA",
         "RECORD_AUDIO",
-        "READ_CONTACTS",
-        "WRITE_CONTACTS",
-        "RECEIVE_SMS",
-        "READ_SMS",
         "INTERNET",
         "ACCESS_NETWORK_STATE",
         "VIBRATE"
       ]
-    },
-    "plugins": [
-      "expo-font",
-      "expo-blur"
-    ]
+    }
   }
 }
