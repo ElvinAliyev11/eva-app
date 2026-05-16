@@ -9,17 +9,11 @@
     "android": {
       "package": "com.eva.superapp",
       "versionCode": 1,
-      "permissions": [
-        "CAMERA",
-        "RECORD_AUDIO",
-        "INTERNET",
-        "ACCESS_NETWORK_STATE",
-        "VIBRATE"
-      ]
+      "permissions": ["CAMERA", "RECORD_AUDIO", "INTERNET", "ACCESS_NETWORK_STATE", "VIBRATE"]
     },
     "extra": {
       "eas": {
-        "projectId": "037fde87-ba38-4a2a-a33b-6b859df2e9a4"
+        "projectId": "YOUR-PROJECT-ID"
       }
     }
   }
