@@ -16,6 +16,11 @@
         "ACCESS_NETWORK_STATE",
         "VIBRATE"
       ]
+    },
+    "extra": {
+      "eas": {
+        "projectId": "037fde87-ba38-4a2a-a33b-6b859df2e9a4"
+      }
     }
   }
 }
