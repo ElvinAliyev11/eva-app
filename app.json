@@ -1,0 +1,20 @@
+{
+  "expo": {
+    "name": "EVA",
+    "slug": "eva-app-1",
+    "version": "2.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "backgroundColor": "#07071a",
+    "android": {
+      "package": "com.eva.superapp",
+      "versionCode": 1,
+      "permissions": ["INTERNET", "ACCESS_NETWORK_STATE", "VIBRATE"]
+    },
+    "extra": {
+      "eas": {
+        "projectId": "14c1ce79-f48f-4071-97e9-db24a2303f4c"
+      }
+    }
+  }
+}
